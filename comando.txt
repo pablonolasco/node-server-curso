@@ -1,0 +1,8 @@
+npm init
+npm install express --save
+node server.js
+
+//procesar informacion https://www.npmjs.com/package/body-parser
+npm install body-parser --save
+
+heroku create -h - crea report auto
