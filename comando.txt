@@ -6,3 +6,4 @@ node server.js
 npm install body-parser --save
 
 heroku create -h - crea report auto
+git push heroku master- suber lo que esta en el git master a heroku
